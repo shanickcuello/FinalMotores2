@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 957cf821b97e0f5438c9f3a087349e1c, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_commandName: GameObject/Create Empty
+    m_buttonName: Create Empty
+    m_image: {fileID: 0}
+    m_width: 107
+  - m_commandName: GameObject/3D Object/Cube
+    m_buttonName: Create cubo
+    m_image: {fileID: 0}
+    m_width: 100
+  - m_commandName: GameObject/3D Object/Cube
+    m_buttonName: Create cubo2
+    m_image: {fileID: 2800000, guid: 404cbe6b3c719a64cac26eedbd15eaf5, type: 3}
+    m_width: 29
+  - m_commandName: Assets/Create/Folder
+    m_buttonName: folder
+    m_image: {fileID: 0}
+    m_width: 0
+  - m_commandName: GameObject/Camera
+    m_buttonName: camara
+    m_image: {fileID: 0}
+    m_width: 0
